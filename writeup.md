@@ -15,13 +15,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[raw]: output_images/solidWhiteRight.jpg "raw"
-[Grayscale]: output_images/grayscale_solidWhiteRight.jpg "Grayscale"
-[Blured]: output_images/blur_gray_solidWhiteRight.jpg "Blured Grayscale"
-[Canny]: output_images/edges_solidWhiteRight.jpg "Edges"
-[Masked]: output_images/region_solidWhiteRight.jpg "Masked edges"
-[Lines]: output_images/lines_solidWhiteRight.jpg "Lines"
-[Annotated]:  output_images/ann_solidWhiteRight.jpg "Annotated image"
+[raw]: output_images/solidWhiteRight.jpg?raw=true "raw"
+[Grayscale]: output_images/grayscale_solidWhiteRight.jpg?raw=true "Grayscale"
+[Blured]: output_images/blur_gray_solidWhiteRight.jpg?raw=true "Blured Grayscale"
+[Canny]: output_images/edges_solidWhiteRight.jpg?raw=true "Edges"
+[Masked]: output_images/region_solidWhiteRight.jpg?raw=true "Masked edges"
+[Lines]: output_images/lines_solidWhiteRight.jpg?raw=true "Lines"
+[Annotated]:  output_images/ann_solidWhiteRight.jpg?raw=true "Annotated image"
 
 
 
